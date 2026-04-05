@@ -95,3 +95,4 @@
 /Users/vamshikrishna/Desktop/AWS/aws-cicd/codepipeline/obj/Debug/net10.0/codepipeline.pdb
 /Users/vamshikrishna/Desktop/AWS/aws-cicd/codepipeline/obj/Debug/net10.0/codepipeline.genruntimeconfig.cache
 /Users/vamshikrishna/Desktop/AWS/aws-cicd/codepipeline/obj/Debug/net10.0/ref/codepipeline.dll
+/Users/vamshikrishna/Desktop/AWS/aws-cicd/codepipeline/obj/Debug/net10.0/codepipeline.sourcelink.json
