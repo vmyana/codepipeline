@@ -26,5 +26,5 @@ phases:
 
 artifacts:
   files:
-    - codepipeline-deployment.zip
-  name: CodePipelineArtifact
+    - '**/*'
+  base-directory: './publish'
