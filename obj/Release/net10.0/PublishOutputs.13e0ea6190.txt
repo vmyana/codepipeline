@@ -1,0 +1,7 @@
+/Users/vamshikrishna/Desktop/AWS/aws-cicd/codepipeline/publish/codepipeline
+/Users/vamshikrishna/Desktop/AWS/aws-cicd/codepipeline/publish/appsettings.Development.json
+/Users/vamshikrishna/Desktop/AWS/aws-cicd/codepipeline/publish/appsettings.json
+/Users/vamshikrishna/Desktop/AWS/aws-cicd/codepipeline/publish/codepipeline.dll
+/Users/vamshikrishna/Desktop/AWS/aws-cicd/codepipeline/publish/codepipeline.deps.json
+/Users/vamshikrishna/Desktop/AWS/aws-cicd/codepipeline/publish/codepipeline.runtimeconfig.json
+/Users/vamshikrishna/Desktop/AWS/aws-cicd/codepipeline/publish/codepipeline.pdb
